@@ -1,4 +1,10 @@
-# axe-matchers
+# [DEPRECATED] axe-matchers
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+> This repository has been deprecated. The package has been moved to [axe-core-gems](https://github.com/dequelabs/axe-core-gems). These set of packages will be available via [rubygems.org](https://rubygems.org/) prefixed with [ `@axe-core-*` ](https://rubygems.org/search?utf8=%E2%9C%93&query=axe-core-).
+
+---
 
 Automated accessibility testing powered by aXe.
 
@@ -65,9 +71,8 @@ axe-matchers supports Capybara, Selenium, and Watir webdrivers; each tested with
 
 *__Notes:__*
 
-- Chrome requires [ChromeDriver][chrome-driver] (tested with 2.35)
-- Safari requires [SafariDriver][safari-driver] (tested with 2.48)
-
+* Chrome requires [ChromeDriver][chrome-driver] (tested with 2.35)
+* Safari requires [SafariDriver][safari-driver] (tested with 2.48)
 
 # Contributing
 
